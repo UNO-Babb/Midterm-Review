@@ -1,4 +1,8 @@
 # Midterm Review
+Midterm Format
+- 20 Multiple Choice Questions
+- 3 Free Response Questions
+- 2 Code Competition Questions
 
 ## Computer Hardware
 
@@ -119,6 +123,7 @@ num = int(input("Enter a number between 0 and 5"))
 What is the output of the following code:
 ```
 word = "This is a test"
+
 part = word[2: 6]
 ```
 - "is is"
