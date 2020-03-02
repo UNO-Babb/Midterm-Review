@@ -137,8 +137,42 @@ for word in line:
 ## Lists & Dictionaries
 ### [Lecture 6](https://github.com/UNO-Babb/Lecture6)
 ### Sample Questions
+Which method will add a digit to the end of this list?
+```
+myList = [1, 2, 3, 4]
+```
+- myList.add(5)
+- myList[4] = 5
+- myList.append(5)
+- myList.update(5)
 
+True or False: The following list is valid?
+```
+myList = [1, "hello", 17.8, True]
+```
+- True
+- False
+
+With this dictionary, how would we get the value **5** to return?
+```
+myDictionary = {'one': 3, 'fish' : 5, 'two' : 8, 'blue': 13}
+```
+- myDictionary[5]
+- myDictionary['fish']
+- myDictionary['blue']
+- myDictionary['five']
+
+How do lists simplify programming?
+
+Write code that finds the average of the list:
+```
+myList = [10, 20, 30, 40, 50, 60, 70]
+<insert code here>
+```
 
 ## Functions
 ### [Lecture 7](https://github.com/UNO-Babb/Lecture7)
 ### Sample Questions
+How are functions used to simplify complex problems in computer science?
+
+[CodingBat Problems](https://codingbat.com/python/Warmup-1)
